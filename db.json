@@ -1,0 +1,50 @@
+{
+  "categoria": [
+    {
+      "id": 1,
+      "title": "Games"
+    },
+    {
+      "id": 2,
+      "title": "Jogos"
+    },
+    {
+      "id": 3,
+      "title": "Notebooks"
+    },
+    {
+      "id": 4,
+      "title": "Perifericos"
+    },
+    {
+      "id": "a32f",
+      "title": "Games"
+    }
+  ],
+  "cliente": [
+    {
+      "id": 1,
+      "nome": "ana"
+    },
+    {
+      "id": 2,
+      "nome": "beto"
+    },
+    {
+      "id": 3,
+      "nome": "marcia"
+    }
+  ],
+  "user": [
+    {
+      "id": 1,
+      "email": "ana@gmail.com",
+      "senha": "123456"
+    },
+    {
+      "id": 2,
+      "email": "alex@gmail.com",
+      "senha": "123456"
+    }
+  ]
+}
