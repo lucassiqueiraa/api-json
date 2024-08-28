@@ -31,7 +31,7 @@ banco.json
 
 * rodar o projeto
 ```
-npx json-server db.json
+npx json-server banco.json
 ```
 
 #### Endpoint
