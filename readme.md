@@ -38,14 +38,12 @@ npx json-server banco.json
 
 * get
 http://localhost:3000/categoria <br>
-* id <br>
-* title <br>
+ id,  title
 
 * post
 http://localhost:3000/categoria <br>
 body:{ <br>
-    * id <br>
-    * title <br>
+    title <br>
 }<br>
 
 * put
