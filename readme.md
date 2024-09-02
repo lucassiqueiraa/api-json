@@ -47,9 +47,9 @@ body:{ <br>
 }<br>
 
 * put
-http://localhost:3000/categoria/id
+http://localhost:3000/categoria/id <br>
 body:{
-    * title
+  title
 }
 
 * delete
