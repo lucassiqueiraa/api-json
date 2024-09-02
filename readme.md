@@ -37,16 +37,16 @@ npx json-server banco.json
 #### Endpoint
 
 * get
-http://localhost:3000/categoria
-* id
-* title
+http://localhost:3000/categoria <br>
+* id <br>
+* title <br>
 
 * post
-http://localhost:3000/categoria
-body:{
-    * id
-    * title
-}
+http://localhost:3000/categoria <br>
+body:{ <br>
+    * id <br>
+    * title <br>
+}<br>
 
 * put
 http://localhost:3000/categoria/id
